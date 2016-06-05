@@ -1,0 +1,11 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\bin\Debug\LearnThatDeutsch.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\bin\Debug\LearnThatDeutsch.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\bin\Debug\LearnThatDeutsch.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\obj\Debug\LearnThatDeutsch.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\obj\Debug\LearnThatDeutsch.MainWindow.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\obj\Debug\LearnThatDeutsch.SetEditWindow.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\obj\Debug\LearnThatDeutsch.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\obj\Debug\LearnThatDeutsch.WordEditWindow.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\obj\Debug\LearnThatDeutsch.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\obj\Debug\LearnThatDeutsch.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\LearnThatDeutsch\LearnThatDeutsch\obj\Debug\LearnThatDeutsch.pdb

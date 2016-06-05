@@ -1,0 +1,12 @@
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\bin\Release\GermanLearningHelper.exe.config
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\bin\Release\GermanLearningHelper.exe
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\bin\Release\GermanLearningHelper.pdb
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Release\GermanLearningHelper.Properties.Resources.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Release\GermanLearningHelper.csproj.GenerateResource.Cache
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Release\GermanLearningHelper.exe
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Release\GermanLearningHelper.pdb
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Release\GermanLearningHelper.MainWindow.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Release\GermanLearningHelper.SetEditWindow.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Release\GermanLearningHelper.WordEditWindow.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Release\GermanLearningHelper.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\bin\Release\LearnThatDeutsch.exe.config

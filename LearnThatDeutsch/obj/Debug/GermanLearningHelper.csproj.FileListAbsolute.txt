@@ -1,0 +1,11 @@
+c:\users\daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\bin\Debug\GermanLearningHelper.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\bin\Debug\GermanLearningHelper.exe
+c:\users\daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\bin\Debug\GermanLearningHelper.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Debug\GermanLearningHelper.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Debug\GermanLearningHelper.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Debug\GermanLearningHelper.exe
+c:\users\daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Debug\GermanLearningHelper.pdb
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Debug\GermanLearningHelper.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Debug\GermanLearningHelper.MainWindow.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Debug\GermanLearningHelper.SetEditWindow.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\GermanLearningHelper\GermanLearningHelper\obj\Debug\GermanLearningHelper.WordEditWindow.resources
